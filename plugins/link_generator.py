@@ -74,7 +74,16 @@ async def batch(client: Client, message: Message):
                     "BENGALI": "Ben",
                     "MARATHI": "Mar"
                 }
-                caption_upper = file_name.upper() + file_caption.upper()
+
+                caption_upper=""
+
+                if file_name:
+                    caption_upper = file_name.upper()
+                else:
+                    caption_upper = ""
+
+                if file_caption:
+                    caption_upper += file_caption.upper()
 
                 for full_lang, short_lang in language_map.items():
                     if full_lang in caption_upper or short_lang.upper() in caption_upper:
