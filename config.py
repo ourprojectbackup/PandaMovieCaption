@@ -8,7 +8,7 @@ import logging
 from logging.handlers import RotatingFileHandler
 
 
-BASE_URL = "http://127.0.0.1:8080"
+BASE_URL = "http://164.92.130.158:8080"
 
 SECRET_CODE_LENGTH = 8
 
