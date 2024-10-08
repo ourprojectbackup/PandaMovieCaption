@@ -8,9 +8,13 @@ import logging
 from logging.handlers import RotatingFileHandler
 
 
+BASE_URL = "http://127.0.0.1:8080"
+
+SECRET_CODE_LENGTH = 8
 
 #Bot token @Botfather
 TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "7710510794:AAFXoKCIqsTiZ8iYi-dj8U1h4gvS3dlNpaI")
+#TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "7937806566:AAGJCTvDYunisFi3MsceemWqohtRvPinqIE")
 
 #Your API ID from my.telegram.org
 APP_ID = int(os.environ.get("APP_ID", "12595500"))

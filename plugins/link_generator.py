@@ -3,10 +3,11 @@
 from pyrogram import Client, filters
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 from bot import Bot
-from config import ADMINS
+from config import ADMINS,SECRET_CODE_LENGTH,BASE_URL
 from helper_func import encode, get_message_id
 import requests
 import re
+from secrets import token_hex
 
 @Bot.on_message(filters.private & filters.user(ADMINS) & filters.command('batch'))
 async def batch(client: Client, message: Message):
@@ -41,6 +42,7 @@ async def batch(client: Client, message: Message):
     link = shorten_link(long_link)
  # Now retrieve all messages between the first and last message IDs from the DB channel
     files_list = []
+    online_stream_link_list = []
     found_languages = set()
     found_year = set()
     found_moviename = set()
@@ -89,6 +91,11 @@ async def batch(client: Client, message: Message):
                     if full_lang in caption_upper or short_lang.upper() in caption_upper:
                         found_languages.add(full_lang)
 
+                secret_code = token_hex(SECRET_CODE_LENGTH)
+                stream_link_full = f'{BASE_URL}/stream/{msg_id}?code={secret_code}'
+
+                stream_link = shorten_link_kingurl(stream_link_full)
+                
                
                        
 
@@ -102,6 +109,7 @@ async def batch(client: Client, message: Message):
 
                 # Store file details (size, link) in a list for sorting
                 files_list.append((file_size, f"{size_str}"))
+                online_stream_link_list.append(stream_link+stream_link_full)
 
         except Exception as e:
             await message.reply(f"❌ Failed to get message ID: {msg_id}. Error: {str(e)}", quote=True)
@@ -116,8 +124,7 @@ async def batch(client: Client, message: Message):
     for i, file_info in enumerate(files_list):
         
         telegram_files.append( f"{file_info[1]} : {link}" )
-        
-        online_files.append(f"{file_info[1]} : ")
+        online_files.append(f"{file_info[1]} : {online_stream_link_list[i]}")
 
     # Create the caption format similar to your provided one
     caption = ""
@@ -187,6 +194,35 @@ def shorten_link(long_url, alias=None):
     
     # Base URL of ModiJiUrl API
     api_url = "https://modijiurl.com/api"
+    
+    # Parameters for the API request
+    params = {
+        "api": api_token,
+        "url": long_url,
+        "format": "text"  # To get just the shortened link in text format
+    }
+    
+    # Add alias if provided
+    if alias:
+        params["alias"] = alias
+    
+    # Send GET request to the API
+    response = requests.get(api_url, params=params)
+    
+    # Check for successful response
+    if response.status_code == 200:
+        short_link = response.text.strip()  # Shortened URL in text format
+        return short_link
+    else:
+        return f"Error: {response.status_code}"
+    
+
+def shorten_link_kingurl(long_url, alias=None):
+    # Your API token
+    api_token = "8e02c9f430ea7ef397206a26728f0287f05dbdd9"
+    
+    # Base URL of ModiJiUrl API
+    api_url = "https://kingurl.in/api"
     
     # Parameters for the API request
     params = {

@@ -219,3 +219,77 @@ https://t.me/CodeXBotz
 [29-Sep-24 16:42:24 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
 [29-Sep-24 16:42:25 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
 [29-Sep-24 16:42:26 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[08-Oct-24 18:13:50 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[08-Oct-24 18:16:01 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[08-Oct-24 18:16:01 - INFO] - bot - Bot stopped.
+[08-Oct-24 18:16:01 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[08-Oct-24 18:16:01 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[08-Oct-24 18:16:08 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[08-Oct-24 18:19:25 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[08-Oct-24 18:19:25 - INFO] - bot - Bot stopped.
+[08-Oct-24 18:19:25 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[08-Oct-24 18:19:32 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[08-Oct-24 18:20:55 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[08-Oct-24 18:20:55 - INFO] - bot - Bot stopped.
+[08-Oct-24 18:20:55 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[08-Oct-24 18:21:15 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[08-Oct-24 18:22:36 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[08-Oct-24 18:22:36 - INFO] - bot - Bot stopped.
+[08-Oct-24 18:22:37 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[08-Oct-24 18:22:43 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[08-Oct-24 18:23:25 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[08-Oct-24 18:23:25 - INFO] - bot - Bot stopped.
+[08-Oct-24 18:23:26 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[08-Oct-24 18:23:32 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[08-Oct-24 18:24:33 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[08-Oct-24 18:24:33 - INFO] - bot - Bot stopped.
+[08-Oct-24 18:24:33 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[08-Oct-24 18:24:38 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[08-Oct-24 18:25:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[08-Oct-24 18:25:45 - INFO] - bot - Bot stopped.
+[08-Oct-24 18:25:46 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[08-Oct-24 18:25:52 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[08-Oct-24 18:27:34 - INFO] - aiohttp.access - 127.0.0.1 [08/Oct/2024:18:27:34 +0530] "GET /dl/4547?code=6e443fd057c2 HTTP/1.1" 404 174 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"
+[08-Oct-24 18:27:34 - INFO] - aiohttp.access - 127.0.0.1 [08/Oct/2024:18:27:34 +0530] "GET /favicon.ico HTTP/1.1" 404 174 "http://127.0.0.1:8080/dl/4547?code=6e443fd057c2" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"
+[08-Oct-24 18:33:21 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[08-Oct-24 18:33:21 - INFO] - bot - Bot stopped.
+[08-Oct-24 18:33:21 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[08-Oct-24 18:33:21 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[08-Oct-24 18:33:27 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[08-Oct-24 18:34:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[08-Oct-24 18:34:43 - INFO] - bot - Bot stopped.
+[08-Oct-24 18:34:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[08-Oct-24 18:34:52 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[08-Oct-24 18:47:52 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[08-Oct-24 18:47:52 - INFO] - bot - Bot stopped.
+[08-Oct-24 18:47:52 - INFO] - root - Stop signal received (SIGINT). Exiting...
