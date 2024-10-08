@@ -1,4 +1,4 @@
-from bot import Bot
+import asyncio
 from os import environ as env
 from quart import Quart, Blueprint, Response, request, redirect, render_template, jsonify
 from uvicorn import Server as UvicornServer, Config
@@ -43,13 +43,11 @@ async def before_serve():
     logger.info(f'Server running on {Server.BIND_ADDRESS}:{Server.PORT}')
 
 async def get_message(message_id: int) -> Message | None:
-    message = None
     try:
-        message = await TelegramBot.get_messages(Telegram.CHANNEL_ID, ids=message_id)
+        return await TelegramBot.get_messages(Telegram.CHANNEL_ID, ids=message_id)
     except Exception as e:
         logger.error(f"An error occurred while fetching the message: {e}")
-    
-    return message
+        return None
 
 def get_file_properties(message: Message):
     file_name = message.file.name
@@ -194,19 +192,30 @@ async def handle_internal_server_error(_):
 # Register the blueprint
 app.register_blueprint(bp)
 
+# Bot Class Definition
+class Bot:
+    def __init__(self):
+        print("Bot initialized")
 
+    async def run(self):
+        # This is where you'd place your bot's asynchronous code.
+        while True:
+            print("Bot is running...")
+            await asyncio.sleep(5)  # Simulate some bot task that runs in the background
 
-# Run the server and bot
-if __name__ == '__main__':
-    # Run the bot
-    Bot().run()
+# Run both the bot and server concurrently
+async def main():
+    # Start bot
+    bot = Bot()
+    bot_task = asyncio.create_task(bot.run())
 
     # Start the Uvicorn server
-    server = UvicornServer(
-        Config(
-            app=app,
-            host=Server.BIND_ADDRESS,
-            port=Server.PORT,
-        )
-    )
-    server.run()
+    config = Config(app=app, host=Server.BIND_ADDRESS, port=Server.PORT)
+    server = UvicornServer(config)
+    server_task = asyncio.create_task(server.serve())
+
+    # Wait for both tasks to run concurrently
+    await asyncio.gather(bot_task, server_task)
+
+if __name__ == '__main__':
+    asyncio.run(main())
