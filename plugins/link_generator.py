@@ -109,7 +109,7 @@ async def batch(client: Client, message: Message):
 
                 # Store file details (size, link) in a list for sorting
                 files_list.append((file_size, f"{size_str}"))
-                online_stream_link_list.append(stream_link+stream_link_full)
+                online_stream_link_list.append(stream_link)
 
         except Exception as e:
             await message.reply(f"❌ Failed to get message ID: {msg_id}. Error: {str(e)}", quote=True)
