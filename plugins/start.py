@@ -61,18 +61,29 @@ async def start_command(client: Client, message: Message):
         await temp_msg.delete()
 
         for msg in messages:
-            file_size = msg.document.file_size
+            file_size = 0
+            file_name=""
+            if msg.document:
+                file_size = msg.document.file_size
+                file_name = msg.document.file_name
+            elif msg.video:
+                file_size = msg.video.file_size
+                file_name = msg.video.file_name
+            elif msg.photo:
+                file_size = msg.photo.file_size 
+                file_name = msg.photo.file_name # Usually, Telegram compresses photos
+            elif msg.audio:
+                file_size = msg.audio.file_size
+                file_name = msg.audio.file_name
+
             str_size=""
-
-            if file_size >= 1024 * 1024 * 1024:  # Greater than or equal to 1 GB
-                str_size = f"{file_size / (1024 * 1024 * 1024):.2f} GB"
-            else:
-                size = file_size / (1024 * 1024)
-                str_size = f"{round(size / 50) * 50} MB"
+            if(file_size!=0):
+                str_size=get_file_size(file_size)
 
 
-            if bool(CUSTOM_CAPTION) & bool(msg.document):
-                caption = CUSTOM_CAPTION.format(previouscaption = "" if not msg.caption else msg.caption.html, filename = msg.document.file_name,file_size =str_size)
+
+            if bool(CUSTOM_CAPTION) & (bool(msg.document) |bool(msg.video)|bool(msg.audio)|bool(msg.photo) ):
+                caption = CUSTOM_CAPTION.format(previouscaption = "" if not msg.caption else msg.caption.html, filename = file_name,file_size =str_size)
             else:
                 caption = "" if not msg.caption else msg.caption.html
 
@@ -213,3 +224,14 @@ Unsuccessful: <code>{unsuccessful}</code></b>"""
         msg = await message.reply(REPLY_ERROR)
         await asyncio.sleep(8)
         await msg.delete()
+
+
+def get_file_size(file_size):
+    if file_size >= 1024 * 1024 * 1024:  # 1 GB or more
+        return f"{file_size / (1024 * 1024 * 1024):.2f} GB"
+    elif file_size >= 1024 * 1024:  # 1 MB or more
+        return f"{file_size / (1024 * 1024):.2f} MB"
+    elif file_size >= 1024:  # 1 KB or more
+        return f"{file_size / 1024:.2f} KB"
+    else:  # Bytes
+        return f"{file_size} Bytes"
