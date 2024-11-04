@@ -11,6 +11,9 @@ import re
 from pyrogram.errors import FloodWait, UserIsBlocked, InputUserDeactivated
 from secrets import token_hex
 
+
+test= True
+
 @Bot.on_message(filters.private & filters.user(ADMINS) & filters.command('batch'))
 async def batch(client: Client, message: Message):
     while True:
@@ -96,9 +99,14 @@ async def batch(client: Client, message: Message):
                 secret_code = token_hex(SECRET_CODE_LENGTH)
                 stream_link_full = f'{BASE_URL}/stream/{msg_id}?code={secret_code}'
 
-                stream_link = shorten_link_kingurl(stream_link_full)
                 
-               
+                
+                if test:
+                    stream_link=""
+                    link = ""
+                else :
+                    stream_link = shorten_link_kingurl(stream_link_full)
+
                        
 
 
@@ -132,7 +140,9 @@ async def batch(client: Client, message: Message):
     caption = ""
 
     if found_moviename:
-        caption +=f"{list(found_moviename)[0]} - "
+        movie_name = list(found_moviename)[0]
+        movie_name=movie_name.replace("-","")
+        caption +=f"{movie_name} - "
     else:
         caption +="   "
 

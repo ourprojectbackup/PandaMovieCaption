@@ -879,3 +879,723 @@ https://t.me/CodeXBotz
 [20-Oct-24 22:20:56 - INFO] - root - Stop signal received (SIGINT). Exiting...
 [20-Oct-24 22:20:56 - INFO] - bot - Bot stopped.
 [20-Oct-24 22:20:57 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[21-Oct-24 16:36:51 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[21-Oct-24 16:42:30 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: Connection timed out
+[21-Oct-24 16:42:31 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:42:32 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:42:33 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:42:33 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:42:34 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:42:35 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:42:36 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:42:36 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:42:37 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:42:38 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:42:39 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:42:39 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:42:40 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:42:41 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:42:42 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:42:42 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:42:43 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:42:44 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:42:45 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:42:45 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:42:46 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:42:47 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:42:48 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:42:48 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:42:50 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:42:51 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:42:52 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:42:52 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:42:53 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:42:54 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:42:55 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:42:55 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:42:56 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:42:57 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:42:58 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:42:58 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:42:59 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:00 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:01 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:43:01 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:02 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:03 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:04 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:43:04 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:05 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:06 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:07 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:43:07 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:08 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:09 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:10 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:43:10 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:11 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:12 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:13 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:43:13 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:14 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:15 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:16 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:43:16 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:17 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:18 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:19 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:43:19 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:20 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:21 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:22 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:43:22 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:23 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:24 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:25 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:43:25 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:26 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:27 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:28 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:43:28 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:29 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:30 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:31 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:43:31 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:32 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:33 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:34 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:43:34 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:35 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:36 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:37 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:43:37 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:38 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:39 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:40 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:43:40 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:41 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:42 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:43 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:43:43 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:44 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:45 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:46 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:43:46 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:47 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:48 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:49 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:43:49 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:50 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:51 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:52 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:43:52 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:53 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:54 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:55 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:43:55 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:56 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:57 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:58 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:43:58 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:43:59 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:00 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:01 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:44:01 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:02 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:03 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:04 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:44:04 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:05 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:06 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:07 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:44:07 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:08 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:09 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:10 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:44:10 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:11 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:12 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:13 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:44:14 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:15 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:16 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:17 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:44:17 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:18 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:19 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:20 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:44:20 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:21 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:22 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:23 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:44:23 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:24 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:25 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:26 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:44:26 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:27 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:28 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:29 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:44:29 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:30 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:31 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:32 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:44:32 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:33 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:34 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:35 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:44:35 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:36 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:37 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:38 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:44:38 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:39 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:40 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:41 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:44:41 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:42 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:43 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:44 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:44:44 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:45 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:46 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:47 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:44:47 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:48 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:49 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:50 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:44:50 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:51 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:52 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:53 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:44:53 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:54 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:55 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:56 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:44:56 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:57 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:58 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:44:59 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:44:59 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:00 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:01 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:02 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:45:02 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:03 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:04 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:05 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:45:05 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:06 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:07 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:08 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:45:08 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:09 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:10 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:11 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:45:11 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:12 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:13 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:14 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:45:14 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:15 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:16 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:17 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:45:17 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:18 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:19 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:20 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:45:20 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:21 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:22 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:23 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:45:23 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:24 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:25 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:26 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:45:26 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:27 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:28 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:29 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:45:29 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:30 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:31 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:32 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:45:32 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:33 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:34 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:35 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:45:35 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:37 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:38 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:39 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:45:39 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:40 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:41 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:42 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:45:42 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:43 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:44 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:45 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:45:45 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:46 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:47 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:48 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:45:48 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:49 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:50 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:45:51 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 16:45:51 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 16:49:22 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[21-Oct-24 16:49:22 - INFO] - bot - Bot stopped.
+[21-Oct-24 16:49:22 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[21-Oct-24 17:09:43 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[21-Oct-24 19:30:19 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 19:30:19 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 19:30:20 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 19:30:20 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 19:30:21 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 19:30:22 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 19:30:22 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 19:30:22 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 19:30:22 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 19:30:22 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 19:30:24 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 19:30:24 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 19:33:10 - ERROR] - pyrogram.dispatcher - 'ascii' codec can't decode byte 0xf3 in position 6: ordinal not in range(128)
+Traceback (most recent call last):
+  File "C:\Users\mohan\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\dispatcher.py", line 363, in handler_worker
+    await handler.callback(self.client, *args)
+  File "C:\Users\mohan\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\handlers\message_handler.py", line 154, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "C:\Users\mohan\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyromod\listen\listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "D:\WORK\PRODUCTION\PYTHON\TELEGRAM BOTS\Panda Movies Caption Bot\plugins\start.py", line 32, in start_command
+    string = await decode(base64_string)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\WORK\PRODUCTION\PYTHON\TELEGRAM BOTS\Panda Movies Caption Bot\helper_func.py", line 38, in decode
+    string = string_bytes.decode("ascii")
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xf3 in position 6: ordinal not in range(128)
+[21-Oct-24 19:33:11 - ERROR] - pyrogram.dispatcher - 'ascii' codec can't decode byte 0xf3 in position 6: ordinal not in range(128)
+Traceback (most recent call last):
+  File "C:\Users\mohan\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\dispatcher.py", line 363, in handler_worker
+    await handler.callback(self.client, *args)
+  File "C:\Users\mohan\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\handlers\message_handler.py", line 154, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "C:\Users\mohan\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyromod\listen\listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "D:\WORK\PRODUCTION\PYTHON\TELEGRAM BOTS\Panda Movies Caption Bot\plugins\start.py", line 32, in start_command
+    string = await decode(base64_string)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\WORK\PRODUCTION\PYTHON\TELEGRAM BOTS\Panda Movies Caption Bot\helper_func.py", line 38, in decode
+    string = string_bytes.decode("ascii")
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xf3 in position 6: ordinal not in range(128)
+[21-Oct-24 19:33:12 - ERROR] - pyrogram.dispatcher - 'ascii' codec can't decode byte 0xf3 in position 6: ordinal not in range(128)
+Traceback (most recent call last):
+  File "C:\Users\mohan\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\dispatcher.py", line 363, in handler_worker
+    await handler.callback(self.client, *args)
+  File "C:\Users\mohan\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\handlers\message_handler.py", line 154, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "C:\Users\mohan\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyromod\listen\listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "D:\WORK\PRODUCTION\PYTHON\TELEGRAM BOTS\Panda Movies Caption Bot\plugins\start.py", line 32, in start_command
+    string = await decode(base64_string)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\WORK\PRODUCTION\PYTHON\TELEGRAM BOTS\Panda Movies Caption Bot\helper_func.py", line 38, in decode
+    string = string_bytes.decode("ascii")
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xf3 in position 6: ordinal not in range(128)
+[21-Oct-24 19:33:12 - ERROR] - pyrogram.dispatcher - 'ascii' codec can't decode byte 0xf3 in position 6: ordinal not in range(128)
+Traceback (most recent call last):
+  File "C:\Users\mohan\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\dispatcher.py", line 363, in handler_worker
+    await handler.callback(self.client, *args)
+  File "C:\Users\mohan\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\handlers\message_handler.py", line 154, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "C:\Users\mohan\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyromod\listen\listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "D:\WORK\PRODUCTION\PYTHON\TELEGRAM BOTS\Panda Movies Caption Bot\plugins\start.py", line 32, in start_command
+    string = await decode(base64_string)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\WORK\PRODUCTION\PYTHON\TELEGRAM BOTS\Panda Movies Caption Bot\helper_func.py", line 38, in decode
+    string = string_bytes.decode("ascii")
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xf3 in position 6: ordinal not in range(128)
+[21-Oct-24 19:53:09 - ERROR] - asyncio - Task exception was never retrieved
+future: <Task finished name='Task-1532' coro=<Session.restart() done, defined at C:\Users\mohan\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\session\session.py:188> exception=RuntimeError('read() called while another coroutine is already waiting for incoming data')>
+Traceback (most recent call last):
+  File "C:\Users\mohan\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\session\session.py", line 189, in restart
+    await self.stop()
+  File "C:\Users\mohan\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\session\session.py", line 178, in stop
+    await self.recv_task
+  File "C:\Users\mohan\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\session\session.py", line 311, in recv_worker
+    packet = await self.connection.recv()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mohan\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\connection\connection.py", line 84, in recv
+    return await self.protocol.recv()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mohan\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\connection\transport\tcp\tcp_abridged.py", line 47, in recv
+    length = await super().recv(1)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mohan\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\connection\transport\tcp\tcp.py", line 157, in recv
+    chunk = await asyncio.wait_for(
+            ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mohan\AppData\Local\Programs\Python\Python311\Lib\asyncio\tasks.py", line 489, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+  File "C:\Users\mohan\AppData\Local\Programs\Python\Python311\Lib\asyncio\streams.py", line 711, in read
+    await self._wait_for_data('read')
+  File "C:\Users\mohan\AppData\Local\Programs\Python\Python311\Lib\asyncio\streams.py", line 529, in _wait_for_data
+    raise RuntimeError(
+RuntimeError: read() called while another coroutine is already waiting for incoming data
+[21-Oct-24 19:54:26 - WARNING] - asyncio - socket.send() raised exception.
+[21-Oct-24 19:54:42 - WARNING] - asyncio - socket.send() raised exception.
+[21-Oct-24 19:54:57 - WARNING] - asyncio - socket.send() raised exception.
+[21-Oct-24 19:55:13 - WARNING] - asyncio - socket.send() raised exception.
+[21-Oct-24 19:55:28 - WARNING] - asyncio - socket.send() raised exception.
+[21-Oct-24 19:55:35 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[21-Oct-24 19:55:35 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[21-Oct-24 19:55:35 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[21-Oct-24 19:55:36 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[21-Oct-24 19:55:36 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[21-Oct-24 19:55:36 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[21-Oct-24 19:55:44 - WARNING] - asyncio - socket.send() raised exception.
+[21-Oct-24 19:55:44 - WARNING] - pyrogram.session.session - [10] Retrying "updates.GetState" due to: Connection lost
+[21-Oct-24 19:55:59 - WARNING] - asyncio - socket.send() raised exception.
+[21-Oct-24 19:56:08 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[21-Oct-24 19:59:55 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[21-Oct-24 19:59:55 - INFO] - bot - Bot stopped.
+[21-Oct-24 19:59:55 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[21-Oct-24 20:00:01 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[21-Oct-24 20:00:36 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[21-Oct-24 20:00:36 - INFO] - bot - Bot stopped.
+[21-Oct-24 20:00:37 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[21-Oct-24 20:00:47 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[21-Oct-24 20:01:41 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[21-Oct-24 20:01:41 - INFO] - bot - Bot stopped.
+[21-Oct-24 20:01:41 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[21-Oct-24 20:01:47 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[21-Oct-24 20:02:12 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[21-Oct-24 20:02:12 - INFO] - bot - Bot stopped.
+[21-Oct-24 20:02:12 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[21-Oct-24 20:02:18 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[21-Oct-24 20:03:11 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[21-Oct-24 20:03:11 - INFO] - bot - Bot stopped.
+[21-Oct-24 20:03:11 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[21-Oct-24 20:03:17 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[21-Oct-24 20:23:09 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:23:10 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:23:11 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:23:12 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:23:12 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:24:56 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: Connection timed out
+[21-Oct-24 20:24:57 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:24:58 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:24:59 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:24:59 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:00 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:01 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:02 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:25:02 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:03 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:04 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:05 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:25:05 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:06 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:07 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:08 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:25:08 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:09 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:10 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:11 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:25:11 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:12 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:13 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:14 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:25:14 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:15 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:16 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:17 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:25:17 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:18 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:19 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:20 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:25:20 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:21 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:22 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:23 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:25:23 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:24 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:25 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:26 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:25:26 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:27 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:28 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:29 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:25:29 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:30 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:31 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:32 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:25:32 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:33 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:34 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:35 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:25:35 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:36 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:37 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:38 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:25:38 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:39 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:40 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:41 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:25:41 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:42 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:43 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:44 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:25:44 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:45 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:46 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:47 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:25:47 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:48 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:49 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:50 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:25:50 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:51 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:52 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:53 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:25:53 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:54 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:55 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:57 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:25:57 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:58 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:25:59 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:00 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:26:00 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:01 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:02 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:03 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:26:03 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:04 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:05 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:06 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:26:06 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:07 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:08 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:09 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:26:09 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:10 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:11 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:12 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:26:12 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:13 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:14 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:15 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:26:15 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:16 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:17 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:18 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:26:18 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:19 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:20 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:21 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:26:21 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:22 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:23 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:24 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:26:24 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:25 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:26 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:27 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:26:27 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:28 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:29 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:30 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:26:30 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:31 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:32 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:33 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:26:33 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:26:34 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:37:01 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:37:02 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:37:02 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:37:03 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:37:04 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:37:05 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 20:37:05 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:37:06 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 20:40:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[21-Oct-24 20:40:44 - INFO] - bot - Bot stopped.
+[21-Oct-24 20:40:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[21-Oct-24 20:40:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[21-Oct-24 20:40:51 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[21-Oct-24 20:54:36 - WARNING] - pyrogram.session.session - [Bot] Waiting for 5 seconds before continuing (required by "messages.EditMessage")
+[21-Oct-24 20:54:36 - WARNING] - pyrogram.session.session - [Bot] Waiting for 4 seconds before continuing (required by "messages.SendMessage")
+[21-Oct-24 20:54:36 - WARNING] - pyrogram.session.session - [Bot] Waiting for 4 seconds before continuing (required by "messages.SendMedia")
+[21-Oct-24 20:54:40 - WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "messages.SendMessage")
+[21-Oct-24 20:54:40 - WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "messages.SendMedia")
+[21-Oct-24 20:54:43 - WARNING] - pyrogram.session.session - [Bot] Waiting for 4 seconds before continuing (required by "messages.SendMessage")
+[21-Oct-24 20:54:43 - WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "messages.SendMessage")
+[21-Oct-24 20:54:43 - WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "messages.SendMedia")
+[21-Oct-24 20:54:47 - WARNING] - pyrogram.session.session - [Bot] Waiting for 4 seconds before continuing (required by "messages.SendMessage")
+[21-Oct-24 20:54:47 - WARNING] - pyrogram.session.session - [Bot] Waiting for 4 seconds before continuing (required by "messages.EditMessage")
+[21-Oct-24 20:54:51 - WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "messages.SendMessage")
+[21-Oct-24 20:54:51 - WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "messages.EditMessage")
+[21-Oct-24 20:55:35 - WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "messages.EditMessage")
+[21-Oct-24 20:55:35 - WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "messages.SendMessage")
+[21-Oct-24 20:55:36 - WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "messages.SendMessage")
+[21-Oct-24 20:55:37 - WARNING] - pyrogram.session.session - [Bot] Waiting for 4 seconds before continuing (required by "messages.EditMessage")
+[21-Oct-24 20:55:38 - WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "messages.EditMessage")
+[21-Oct-24 20:55:39 - WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "messages.SendMessage")
+[21-Oct-24 20:55:39 - WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "messages.SendMessage")
+[21-Oct-24 20:55:42 - WARNING] - pyrogram.session.session - [Bot] Waiting for 4 seconds before continuing (required by "messages.SendMessage")
+[21-Oct-24 20:55:42 - WARNING] - pyrogram.session.session - [Bot] Waiting for 4 seconds before continuing (required by "messages.EditMessage")
+[21-Oct-24 20:55:42 - WARNING] - pyrogram.session.session - [Bot] Waiting for 4 seconds before continuing (required by "messages.SendMessage")
+[21-Oct-24 20:55:42 - WARNING] - pyrogram.session.session - [Bot] Waiting for 4 seconds before continuing (required by "messages.SendMessage")
+[21-Oct-24 20:55:46 - WARNING] - pyrogram.session.session - [Bot] Waiting for 4 seconds before continuing (required by "messages.EditMessage")
+[21-Oct-24 20:55:46 - WARNING] - pyrogram.session.session - [Bot] Waiting for 4 seconds before continuing (required by "messages.EditMessage")
+[21-Oct-24 20:55:46 - WARNING] - pyrogram.session.session - [Bot] Waiting for 4 seconds before continuing (required by "messages.EditMessage")
+[21-Oct-24 20:55:50 - WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "messages.EditMessage")
+[21-Oct-24 20:55:50 - WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "messages.EditMessage")
+[21-Oct-24 20:55:50 - WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "messages.EditMessage")
+[21-Oct-24 20:55:54 - WARNING] - pyrogram.session.session - [Bot] Waiting for 5 seconds before continuing (required by "messages.EditMessage")
+[21-Oct-24 20:55:54 - WARNING] - pyrogram.session.session - [Bot] Waiting for 5 seconds before continuing (required by "messages.EditMessage")
+[21-Oct-24 20:55:54 - WARNING] - pyrogram.session.session - [Bot] Waiting for 5 seconds before continuing (required by "messages.EditMessage")
+[21-Oct-24 23:24:55 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:24:55 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:24:56 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:24:56 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:24:57 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:24:57 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:24:58 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 23:24:58 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 23:24:58 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:24:58 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:24:59 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:24:59 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:00 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:00 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:01 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 23:25:01 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 23:25:01 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:01 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:02 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:02 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:03 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:03 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:04 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 23:25:04 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 23:25:04 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:04 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:05 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:05 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:06 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:06 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:07 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 23:25:07 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 23:25:07 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:07 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:08 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:08 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:09 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:09 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:10 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 23:25:10 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 23:25:10 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:10 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:11 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:11 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:12 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:12 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:13 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 23:25:13 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 23:25:13 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:13 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:14 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:14 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:15 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:15 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:16 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 23:25:16 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 23:25:16 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:16 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:17 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:17 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:18 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:18 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:19 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 23:25:19 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 23:25:19 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:19 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:20 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:20 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:21 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:21 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:22 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 23:25:22 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 23:25:22 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:22 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:23 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:23 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:24 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:24 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:25 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 23:25:25 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 23:25:25 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:25 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:26 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:26 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:27 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:27 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:28 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 23:25:28 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 23:25:28 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:28 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:29 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:29 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:30 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:30 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:31 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 23:25:31 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[21-Oct-24 23:25:31 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:31 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[21-Oct-24 23:25:35 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1236] The network connection was aborted by the local system
+[21-Oct-24 23:25:35 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1236] The network connection was aborted by the local system
+[24-Oct-24 20:51:35 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[24-Oct-24 22:29:07 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[24-Oct-24 22:29:08 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[24-Oct-24 22:32:14 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[24-Oct-24 22:32:14 - INFO] - bot - Bot stopped.
+[24-Oct-24 22:32:14 - INFO] - root - Stop signal received (SIGINT). Exiting...
