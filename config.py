@@ -36,7 +36,7 @@ DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://Test:1234@cluster0.2bzsp0
 DB_NAME = os.environ.get("DATABASE_NAME", "filesharexbot")
 
 #force sub channel id, if you want enable force sub
-FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1002205818749"))
+FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1002273264614"))
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
@@ -56,7 +56,7 @@ CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", """Size of The File - {file_si
 
 Join 𝑼𝒔 : 👇
 
-@PandaMoviesOFC
+@PandaMoviesOFC2
 𝘽𝙮 𝗠𝗢𝗛𝗔𝗡 🐼""")
 
 #set True if you want to prevent users from forwarding files from bot

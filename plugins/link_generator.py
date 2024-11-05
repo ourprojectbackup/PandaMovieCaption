@@ -12,7 +12,7 @@ from pyrogram.errors import FloodWait, UserIsBlocked, InputUserDeactivated
 from secrets import token_hex
 
 
-test= True
+test= False
 
 @Bot.on_message(filters.private & filters.user(ADMINS) & filters.command('batch'))
 async def batch(client: Client, message: Message):
@@ -47,7 +47,9 @@ async def batch(client: Client, message: Message):
     link = shorten_link(long_link)
  # Now retrieve all messages between the first and last message IDs from the DB channel
     files_list = []
+    
     online_stream_link_list = []
+    online_stream_link_list_original = []
     found_languages = set()
     found_year = set()
     found_moviename = set()
@@ -122,6 +124,7 @@ async def batch(client: Client, message: Message):
                 # Store file details (size, link) in a list for sorting
                 files_list.append((file_size, f"{size_str}"))
                 online_stream_link_list.append(stream_link)
+                online_stream_link_list_original.append(stream_link_full)
 
         except Exception as e:
             await message.reply(f"❌ Failed to get message ID: {msg_id}. Error: {str(e)}", quote=True)
@@ -133,10 +136,12 @@ async def batch(client: Client, message: Message):
     # Separate sorted files into TELEGRAM_FILES and WATCH_ONLINE/ DOWNLOAD
     telegram_files = []
     online_files = []
+    stream_links = []
     for i, file_info in enumerate(files_list):
         
         telegram_files.append( f"{file_info[1]} : {link}" )
         online_files.append(f"{file_info[1]} : {online_stream_link_list[i]}")
+        stream_links.append(f"{file_info[1]} : {online_stream_link_list_original[i]}")
 
     # Create the caption format similar to your provided one
     caption = ""
@@ -171,13 +176,17 @@ async def batch(client: Client, message: Message):
     caption += "🧡🤍💚 Hᴏᴡ Tᴏ DᴏᴡɴLᴏᴀᴅ  🧡🤍💚\n\n"
     caption += "𝐋𝐢𝐧𝐤 : @How_To_Download_Panda_Movies\n\n"
     caption += "▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n"
-    caption += "@PandaMoviesOFC"
+    caption += "@PandaMoviesOFC2"
 
     # Reply with the generated caption
    
+    link_caption = "<b>Here is your link</b>\n\n"+long_link+"\n\n\n"
+    for file in stream_links:
+        link_caption +="\n"+ file + "\n"
+
 
     reply_markup = InlineKeyboardMarkup([[InlineKeyboardButton("🔁 Share URL", url=f'https://telegram.me/share/url?url={long_link}')]])
-    await second_message.reply_text(f"<b>Here is your link</b>\n\n{long_link}", quote=True, reply_markup=reply_markup)
+    await second_message.reply_text(link_caption, quote=True, reply_markup=reply_markup)
     await second_message.reply_text(caption, quote=True)
 
 
@@ -205,6 +214,7 @@ async def link_generator(client: Client, message: Message):
 
 
 def shorten_link(long_url, alias=None):
+    
     # Your API token
     api_token = "af341e8102ca4b5fa1ee430fe09b3ad0893f8b25"
     
@@ -228,12 +238,14 @@ def shorten_link(long_url, alias=None):
     # Check for successful response
     if response.status_code == 200:
         short_link = response.text.strip()  # Shortened URL in text format
+        
         return short_link
     else:
         return f"Error: {response.status_code}"
     
 
 def shorten_link_kingurl(long_url, alias=None):
+    print(long_url)
     # Your API token
     api_token = "8e02c9f430ea7ef397206a26728f0287f05dbdd9"
     
