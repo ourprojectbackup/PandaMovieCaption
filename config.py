@@ -13,7 +13,7 @@ BASE_URL = "http://164.92.130.158:7000"
 SECRET_CODE_LENGTH = 8
 
 #Bot token @Botfather
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "7710510794:AAFXoKCIqsTiZ8iYi-dj8U1h4gvS3dlNpaI")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "7710510794:AAEpy_uVAclR4YCaTMiokGHZkinDx-3VK5k")
 #TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "7937806566:AAGJCTvDYunisFi3MsceemWqohtRvPinqIE")
 
 #Your API ID from my.telegram.org

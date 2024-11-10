@@ -1698,3 +1698,9 @@ https://t.me/CodeXBotz
 [05-Nov-24 12:48:26 - INFO] - root - Stop signal received (SIGINT). Exiting...
 [05-Nov-24 12:48:26 - INFO] - bot - Bot stopped.
 [05-Nov-24 12:48:27 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[10-Nov-24 23:34:14 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[10-Nov-24 23:34:51 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[10-Nov-24 23:34:51 - INFO] - bot - Bot stopped.
